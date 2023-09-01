@@ -3,7 +3,7 @@
 Welcome to the **Feedback App** repository. This project is an application built using React and Redux that allows users to leave feedback along with a rating and review.
 
 ## See Live: 
-https://nestflip.onrender.com/
+https://feedback-app-v97e.onrender.com/
 
 ## Overview
 
